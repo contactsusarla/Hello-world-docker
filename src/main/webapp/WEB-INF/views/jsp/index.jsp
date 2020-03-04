@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>HELLO WORLD APPLICATION USING DOCKER</h2>
+			<h2>HELLO WORLD APPLICATION DEPLOYMENT USING DOCKER</h2>
 		</div>	
 	</div>
 
